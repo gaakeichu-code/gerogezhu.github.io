@@ -7,50 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am Zhu Jiaqi, a student passionate about the intersection of media creation, academic research, and emerging digital technologies. I earned a Bachelor's degree in Television Directing from Zhejiang University of Media and Communications (September 2021 - June 2025) with a GPA of 3.4/5. Over the past few years, I have built a solid foundation in media content production, academic research, and industry practice.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ You can see my academic resume from here. [this template](https://github.com/academicpages/academicpages.github.io) 
 
-A data-driven personal website
+Academic & Research Excellence
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Research interests include interactions in contemporary digital media and the dynamic relationship between players and video game systems.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Publications**
+"The Homogenization Dilemma of Online Variety Shows and Their Internal-External Integration Development Paths" (in Chinese), published in Audiovisual (2024, Issue 08, pp. 87-90)
+"Investigating the Influence of Online Novel Creation on Plot-Based Short Videos: A Study Based on TikTok Examples", published in Communications in Humanities Research (2024, Vol. 34, pp. 190-195)
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+**Research Projects**
+1. **2024 Open Project of Zhejiang Key Laboratory of Film and Television Media Technology (2024.01 - 2025.12):** Focused on the media sociality of video games, exploring how games influence player experiences across on-screen and off-screen spaces. My role included literature collection, proposal drafting support, and co-writing research papers.
+2. **2024 University-Level Undergraduate Innovation Training Program (2024.05 - 2025.05):** Investigated ethical issues in human-driven virtual anchors and subjectivity shifts in cinema in the intelligent communication era (from a new technology perspective). I led the definition of research phases, task allocation, and manuscript framework development, with 3 papers currently under submission. 
+3. **2023 University-Level Undergraduate Innovation Training Program (2023.05 - 2024.05):** Studied the integration trends of variety shows and online novelization tendencies in plot-based short videos through textual analysis. I shaped the project direction, coordinated team collaboration, and co-wrote 3 papers—2 of which were officially published.
 
-Getting started
+**Awards & Recognition**
+1st Prize (Undergraduate Category), 2023 "Wanfu Film Viewing" National College Student Film Review Competition
+2nd Prize (Undergraduate Category), 6th 2024 "Guangqi Cup" National University Art Discipline Student Paper Competition
+3rd Prize (Student Category), 3rd "New Center Cup" Online Literary Criticism Award
+Merit Award (Undergraduate Category), 1st 2023 "Silk Road Cup" National College Student Film Review Competition
+3rd Prize (University Image Promotion Category), 2023 University Film and Television Works Exchange Exhibition (served as Producer)
+
+Industry & Practical Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I bridge academic theory with real-world application through hands-on practice in media production, game design, and digital innovation:
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**On-Site Short Film Production:** Regularly participate in filming plot-driven short films, taking on roles such as Director, Screenwriter, and Producer—gaining in-depth experience in content creation and on-set coordination.
+**Live Broadcast Research:** Joined my supervisor’s live broadcast research project, conducting on-site investigations at Hangzhou Jintang Culture Co., Ltd., and assisting in developing live broadcast optimization proposals using the "Before-After" model.
+**Tencent Games "Star Leap" Training Camp:** Engaged in game design practice, completing a comprehensive game planning proposal.
+**Tencent Interactive Entertainment "Galaxy Insight Base" Training Camp:** Tracked emerging practices and events in the cultural and entertainment industry (film, games, new media) for the "Future Signal Space Station Phase 13" program. I contributed 25 short commentaries ("Fresh News") and 10 in-depth trend analyses ("Cultural Signals").
+**AI Image Creation Review & Training:** Served as a preliminary judge for the 2024 College Student AI Art Season (AI Image Creation Unit, 2024.09), evaluating 15 entries; completed an AIGC Image Full-Process Training Camp (Jul. 2024), mastering AI image basics and creating 2 short films via "AI + live-action" integration.
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+About Me
+======
+I thrive at the crossroads of creativity and analysis. With hands-on experience in video production and AI image creation, strong writing skills, and rigorous academic training in text analysis and theoretical research, I am equipped to contribute to both research and practical projects in media and digital fields.
+I value efficiency and quality, adapt quickly to new environments, and enjoy collaborating with teams to turn ideas into impactful work. As I near graduation, I look forward to exploring opportunities that let me leverage my skills in media innovation, content strategy, or digital research.
+Feel free to connect with me via email (gaakeichu@gmail.com)!
